@@ -25,9 +25,7 @@ RegisterNumber:212225230149
 ```
 ```
 /*
-Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: Sasmina S
-RegisterNumber:  212225230254
+
 import pandas as pd
 data=pd.read_csv(r"C:\Users\sasmi\Downloads\Employee.csv")
 print("data.head():")
